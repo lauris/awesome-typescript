@@ -35,6 +35,7 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5) supporting both Active Record and Data Mapper patterns.
 - [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript.
 - [InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- [Xstate](https://github.com/davidkpiano/xstate) - TypeScript finite state machines and statecharts for the modern web.
 
 # Contributing
 
