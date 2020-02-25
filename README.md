@@ -26,6 +26,7 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 # Packages
 
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5) supporting both Active Record and Data Mapper patterns.
+- [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript.
 
 # Contributing
 
