@@ -28,6 +28,7 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [Featmap](https://github.com/amborle/featmap) - Simple user story mapping tool built using React, Typescript and Go.
 - [Hyper](https://github.com/zeit/hyper) - A terminal emulator built on open web standards using TypeScript. 
 - [Searchkit](https://github.com/searchkit/searchkit) - Elasticsearch frontend UI built using TypeScript and React.
+- [GitHub Desktop](https://github.com/desktop/desktop) - Official GitHub desktop app built using TypeScript and Electron. 
 
 # Packages
 
