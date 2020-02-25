@@ -42,6 +42,8 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [TS Node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js, with source map support.
 - [TypeStyle](https://github.com/typestyle/typestyle) - Writing CSS with TypeStyle will be just as fluent as writing JavaScript with TypeScript.
 - [TypeMoq](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+- [TypeScript Collections](https://github.com/basarat/typescript-collections) - A generically typed set of collections for use with TypeScript.
+- [TypeDoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 
 # Contributing
 
