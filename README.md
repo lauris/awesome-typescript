@@ -35,10 +35,12 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5) supporting both Active Record and Data Mapper patterns.
 - [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript.
 - [InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- [Typegql](https://github.com/prismake/typegql) - Create GraphQL schema with TypeScript classes.
 - [Xstate](https://github.com/davidkpiano/xstate) - TypeScript finite state machines and statecharts for the modern web.
 - [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for TypeScript.
 - [TS Node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js, with source map support.
 - [TypeStyle](https://github.com/typestyle/typestyle) - Writing CSS with TypeStyle will be just as fluent as writing JavaScript with TypeScript.
+- [TypeMoq](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 
 # Contributing
 
