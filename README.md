@@ -13,11 +13,13 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 
 # Learning TypeScript
 
-* [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - Really simple getting started guide for TypeScript.
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - Really simple getting started guide for TypeScript.
+- [When to Use TypeScript](https://khalilstemmler.com/articles/when-to-use-typescript-guide/) - A Detailed Guide Through Common Scenarios.
 
 # Projects
 
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [Featmap](https://github.com/amborle/featmap) - Simple user story mapping tool built using React, Typescript and Go.
 
 # Packages
 
