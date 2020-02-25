@@ -7,14 +7,21 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 ## Table of Contents
 
 - [Learning TypeScript](#learning-typescript)
-- [TypeScript Projects](#packages)
+- [Projects](#packages)
+- [Packages](#packages)
 - [Contributing](#contributing)
 
 # Learning TypeScript
 
 * [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - Really simple getting started guide for TypeScript.
 
-# TypeScript Projects
+# Projects
+
+- [jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+
+# Packages
+
+- [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5) supporting both Active Record and Data Mapper patterns.
 
 # Contributing
 
