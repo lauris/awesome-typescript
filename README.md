@@ -25,11 +25,13 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [Featmap](https://github.com/amborle/featmap) - Simple user story mapping tool built using React, Typescript and Go.
 - [Hyper](https://github.com/zeit/hyper) - A terminal emulator built on open web standards using TypeScript. 
+- [Searchkit](https://github.com/searchkit/searchkit) - Elasticsearch frontend UI built using TypeScript and React.
 
 # Packages
 
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5) supporting both Active Record and Data Mapper patterns.
 - [Nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript.
+- [InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 # Contributing
 
