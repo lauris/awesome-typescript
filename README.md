@@ -22,6 +22,8 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 
 # Projects
 
+> Cool open-source projects built using Typescript.
+
 - [jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [Featmap](https://github.com/amborle/featmap) - Simple user story mapping tool built using React, Typescript and Go.
 - [Hyper](https://github.com/zeit/hyper) - A terminal emulator built on open web standards using TypeScript. 
