@@ -38,6 +38,7 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 - [Xstate](https://github.com/davidkpiano/xstate) - TypeScript finite state machines and statecharts for the modern web.
 - [RxJS](https://github.com/ReactiveX/RxJS) - A reactive programming library for TypeScript.
 - [TS Node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js, with source map support.
+- [TypeStyle](https://github.com/typestyle/typestyle) - Writing CSS with TypeStyle will be just as fluent as writing JavaScript with TypeScript.
 
 # Contributing
 
