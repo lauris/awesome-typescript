@@ -15,8 +15,10 @@ A community driven list of useful TypeScript learning resources, libraries, fram
 
 - [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - Really simple getting started guide for TypeScript.
 - [When to Use TypeScript](https://khalilstemmler.com/articles/when-to-use-typescript-guide/) - A Detailed Guide Through Common Scenarios.
+- [TypeScript Generics](https://ts.chibicode.com/generics) - TypeScript Generics for People Who Gave Up on Understanding Generics.
 - [Using TypeScript with React](https://simonknott.de/articles/Using-TypeScript-with-React.html) - How to use TypeScript with React.
 - [React & Redux in TypeScript](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript.
+- [Clean Code concepts](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript.
 
 # Projects
 
